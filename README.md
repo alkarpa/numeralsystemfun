@@ -44,3 +44,17 @@ will print out something like
 ---Numeral miinusviisi to number ------------
        Finnish: -5
 ```
+Input
+```
+1001
+```
+will print out something like
+
+```
+---Number 1001 to numeral ------------
+       Finnish: tuhatyksi
+Roman Numerals: MI
+        Binary: 00000000000000000000001111101001
+---Numeral 1001 to number ------------
+        Binary: 9
+```
